@@ -1,5 +1,5 @@
 {
-    "name": "latamautos/laravel-doctrine",
+    "name": "atrauzzi/laravel-doctrine",
     "description": "An ORM for a Framework for Web Artisans",
     "keywords": ["doctrine", "laravel", "orm"],
     "license": "MIT",
